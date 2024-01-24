@@ -1,5 +1,5 @@
 {
-    "name": "the-bitpay-capital-back-end",
+    "name": "This is a blog project",
     "builds": [
       {
         "src": "server.js",
