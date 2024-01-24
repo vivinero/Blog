@@ -1,5 +1,5 @@
 {
-    "name": "This is a blog project",
+    "name": "the-blog-project",
     "builds": [
       {
         "src": "server.js",
